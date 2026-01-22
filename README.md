@@ -23,6 +23,7 @@ A Gradio-based app that analyzes a company's landing page and generates a concis
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/<your-username>/brochure-generator.git
+git clone https://github.com/pratyushg13/brochure-generator.git
 cd brochure-generator
 pip install -r requirements.txt
+
